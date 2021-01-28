@@ -1,0 +1,1 @@
+/usr/bin/g++-9 -g CMakeFiles/MTSDK.dir/source.cpp.o -o MTSDK   -L/usr/local/xsens/lib  -Wl,-rpath,/usr/local/xsens/lib -lxstypes -lxsensdeviceapi -lpthread 

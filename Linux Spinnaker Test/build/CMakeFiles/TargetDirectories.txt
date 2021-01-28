@@ -1,0 +1,3 @@
+/home/finn/Machine-Vision/Machine Vision/Linux FlyCapture2 Test/build/CMakeFiles/rebuild_cache.dir
+/home/finn/Machine-Vision/Machine Vision/Linux FlyCapture2 Test/build/CMakeFiles/FLIR_Stream.dir
+/home/finn/Machine-Vision/Machine Vision/Linux FlyCapture2 Test/build/CMakeFiles/edit_cache.dir

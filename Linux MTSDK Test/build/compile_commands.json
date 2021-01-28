@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/build",
+  "command": "/usr/bin/g++-9  -I/usr/local/xsens/include -g -o CMakeFiles/MTSDK.dir/source.cpp.o -c \"/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/source.cpp\"",
+  "file": "/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/source.cpp"
+}
+]

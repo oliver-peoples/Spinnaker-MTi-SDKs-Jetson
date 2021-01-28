@@ -1,0 +1,3 @@
+/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/build/CMakeFiles/rebuild_cache.dir
+/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/build/CMakeFiles/MTSDK.dir
+/home/finn/Machine-Vision/Machine Vision/Linux MTSDK Test/build/CMakeFiles/edit_cache.dir
