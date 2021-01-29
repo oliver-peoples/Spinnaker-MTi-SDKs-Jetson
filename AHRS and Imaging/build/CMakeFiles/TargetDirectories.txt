@@ -1,0 +1,3 @@
+/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/build/CMakeFiles/rebuild_cache.dir
+/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/build/CMakeFiles/Orient.dir
+/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/build/CMakeFiles/edit_cache.dir

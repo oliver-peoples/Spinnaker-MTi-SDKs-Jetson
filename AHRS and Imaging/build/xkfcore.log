@@ -1,0 +1,3 @@
+1610878466.981 <44619C80> [WRITE] setDebugLevel Debugger output log level set to [FATAL] 
+1610878466.981 <44619C80> [WRITE] writeFileHeader Journaller logging to xkfcore.log for xkfcore 1.0.0 / 106296 build 5355 on 2021/01/17 10:14:26.981
+1610878466.981 <44619C80> [WRITE] setFlushLevel Flush level switched to [DEBUG] 

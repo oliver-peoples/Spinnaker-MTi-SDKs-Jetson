@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/build",
+  "command": "/usr/bin/g++-9  -I/opt/spinnaker/include -I/usr/local/xsens/include -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -o CMakeFiles/Orient.dir/source2.cpp.o -c \"/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/source2.cpp\"",
+  "file": "/home/finn/Machine-Vision/Machine Vision/AHRS and Imaging/source2.cpp"
+}
+]
